@@ -35,12 +35,12 @@ The Subreddit will require approval for posting but not for commenting. The inte
 There would likely be only a few posts a week at most, with the idea that this where we can get higher access, but lower frequency discussion topics for those who would struggle to participate at the discord level, and to raise the signal/noise for people with lower capacity but meaningful feedback.
 
 ### Github Repository
-
+YOU ARE HERE!
 [Github Repository](https://github.com/serveruseragents/working-group)
 
 While this is not an open source project, it is useful to have a widely accessible source of truth for archival documentation: meeting minutes, specification drafts etc.
 
-The landing page of the project README can be used for links and SEO and pointing people in the right directions. Beyond that, we have a folder for meeting minutes which is updated every time we meet. In the future there will likely be other purposes.
+The landing page of the project README (this document) can be used for links and SEO and pointing people in the right directions. Beyond that, we have a folder for meeting minutes which is updated every time we meet. In the future there will likely be other purposes.
 
 Here’s a link to our first meeting minutes:
 
