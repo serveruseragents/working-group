@@ -38,7 +38,7 @@ There would likely be only a few posts a week at most, with the idea that this w
 YOU ARE HERE!
 [Github Repository](https://github.com/serveruseragents/working-group)
 
-While this is not an open source project, it is useful to have a widely accessible source of truth for archival documentation: meeting minutes, specification drafts etc.
+While this is not an "open source coding project", it is useful to have a widely accessible source of truth for archival documentation: meeting minutes, specification drafts etc.
 
 The landing page of the project README (this document) can be used for links and SEO and pointing people in the right directions. Beyond that, we have a folder for meeting minutes which is updated every time we meet. In the future there will likely be other purposes.
 
