@@ -17,7 +17,7 @@ For this shift to succeed, technical feasibility alone is insufficient. Infrastr
 
 **3. What We Do**
 
-The End User Experience Working Group operates alongside the technical group. While the technical group focuses on designing and building the system, this group focuses on defining and evaluating what that system must enable, protect, and improve in real-world use.
+The Vision Working Group operates alongside the technical group. While the technical group focuses on designing and building the system, this group focuses on defining and evaluating what that system must enable, protect, and improve in real-world use.
 
 Areas of focus include:
 
@@ -67,7 +67,7 @@ This subgroup’s work is guided by the following principles:
 
 **6. How We Work With the Technical Group**
 
-The End User Experience and Technical Architecture groups operate in deliberate tension and mutual accountability.
+The Vision and Technical subgroups operate in deliberate tension and mutual accountability.
 
 This group contributes lived-experience scenarios, user stories, accessibility requirements, social impact analysis, harm identification, and real-world business and institutional use cases. It consistently asks whether proposed systems materially improve life as it is actually lived.
 
